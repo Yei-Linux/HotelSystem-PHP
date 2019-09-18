@@ -163,3 +163,6 @@ We can see our reports of sales in Hotel:
 	<img src="https://github.com/Yei-Linux/HotelSystem-PHP/blob/master/imgs/Reportes2.PNG">
 </p>
 
+Finally...:
+-----------
+This project is interesting and i would like to add so many things,i'll do it!
